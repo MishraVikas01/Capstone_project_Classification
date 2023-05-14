@@ -1,4 +1,3 @@
-#Email-Campaign-Effectiveness-prediction
 
 
 This project's objective is to develop a machine learning model that can classify and track emails sent using Gmail-based email marketing campaigns. Small- to medium-sized business owners who want to boost the efficiency of their email marketing campaigns and boost client retention will employ this technique.
